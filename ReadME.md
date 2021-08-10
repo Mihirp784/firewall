@@ -11,6 +11,7 @@ Table of Contents:
       - [There are two categories of a firewall:](#there-are-two-categories-of-a-firewall)
       - [Types of firewalls, based on filtering method:](#types-of-firewalls-based-on-filtering-method)
   - [Uses](#uses)
+  - [References](#references)
 
 ## Definition:
 A firewall is a security device that protects networks by monitoring data traffic, filtering, and blocking unauthorized access to private data or a computer using a set of rules.
@@ -63,3 +64,8 @@ As it inspects, it used pre-configured rules to identify packets as benign or ma
 - It can filter traffic and alert user to intrusions or any unauthorized attempts.
 - It guarantees security based on protocols and IP address
 - In addition to this immediate threat defence, it performs necessary logging and audit functions by keeping a record of events which may help to identify patterns and stop future attacks.
+
+## References
+- https://www.forcepoint.com/cyber-edu/firewall
+- https://checkpoint.com/cyber-hub/network-security/what-is-firewall/
+- https://www.compuquip.com/blog/types-firewall-architectures
